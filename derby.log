@@ -1,0 +1,25 @@
+2010-12-02 10:28:19.452 GMT : Apache Derby Serveur r√©seau - 10.5.3.0 - (802917) d√©marr√© et pr√™t √† accepter les connexions sur le port 1527
+----------------------------------------------------------------
+2010-12-02 10:32:28.322 GMT:
+ Amor√ßage de Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917) : instance a816c00e-012c-a6a0-1990-00002411acc2
+sur le r√©pertoire de base de donn√©es /home/indy/.bin/GlassFishESBv22/glassfish/databases/EventDB  
+
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
+----------------------------------------------------------------
+2010-12-02 10:32:32.601 GMT:
+ Amor√ßage de Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917) : instance 6074401f-012c-a6a0-1990-00002411acc2
+sur le r√©pertoire de base de donn√©es /home/indy/.bin/GlassFishESBv22/glassfish/databases/HotelDB  
+
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
+----------------------------------------------------------------
+2010-12-02 10:32:35.199 GMT:
+ Amor√ßage de Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917) : instance f91a0030-012c-a6a0-1990-00002411acc2
+sur le r√©pertoire de base de donn√©es /home/indy/.bin/GlassFishESBv22/glassfish/databases/RestaurantDB  
+
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
+----------------------------------------------------------------
+2010-12-02 10:32:37.619 GMT:
+ Amor√ßage de Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917) : instance 82080041-012c-a6a0-1990-00002411acc2
+sur le r√©pertoire de base de donn√©es /home/indy/.bin/GlassFishESBv22/glassfish/databases/TravelDB  
+
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
